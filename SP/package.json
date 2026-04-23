@@ -1,0 +1,11 @@
+{
+    "name": "SP-product-sync",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "axios": "^1.6.0",
+        "dotenv": "^16.6.1",
+        "fs-extra": "^11.3.3",
+        "node-fetch": "^3.3.2"
+    }
+}

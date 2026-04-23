@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "shopify-products": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "computedHash": "5d36316603b2dd5a01a7c75dafd7a560a329123ac711532f6d760e4e5369d10d"
+    }
+  }
+}
